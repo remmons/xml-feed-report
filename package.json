@@ -1,0 +1,12 @@
+{
+  "name": "xml-feed-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deep-copy": "^1.4.2",
+    "sax": "^1.2.4"
+  }
+}
