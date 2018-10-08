@@ -4,6 +4,11 @@ This lightweight tool provides a detailed report of what data is an xml file. It
 
 ## Instructions
 
+Prerequisites:
+
+- [xmllint](http://xmlsoft.org/xmllint.html)
+- [node.js](https://nodejs.org/en/download/package-manager/)
+
 Install the dependencies:
 
 ```npm install```
